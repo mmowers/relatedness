@@ -1,0 +1,1 @@
+From a csv of line genes, determine if the file is clean, and calculate relatedness matrix between the different lines.
